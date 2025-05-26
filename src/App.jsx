@@ -1,11 +1,12 @@
 import ToDo from "./components/ToDo";
-import InlineComponent from "./components/InlineComponent.jsx";
+import Header from "./components/Header";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      {/* <ToDo /> */}
-      <InlineComponent />
+      <Header />
+      <ToDo />
     </div>
   );
 }
