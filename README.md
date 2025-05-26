@@ -1,6 +1,6 @@
 # Todo App
 
-![Todo App Screenshot](./screenshot.png)
+![Todo App Screenshot](./assets/screenshot.png)
 
 A simple and interactive Todo List application built with React and Vite. This app allows users to add, complete, and track their daily tasks efficiently.
 
